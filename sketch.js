@@ -14,7 +14,7 @@ var turns=4
 var leftEdgeWall,rightEdgeWall,topEdgeWall
 
 function preload() {
-   enemyImg=loadImage("sprites/king.png")
+   enemyImg=loadImage("king.png")
 }
 
 function setup(){
